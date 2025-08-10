@@ -215,7 +215,7 @@ This methodology applies to:
 ## 📧 Contact & Citation
 
 **Course:** Computational Statistics  
-**Institution:** [Your University]  
+**Institution:** Universidad Nacional de Ingenieria  
 **Date:** August 2024
 
 If you use this code or methodology, please cite:
@@ -223,8 +223,8 @@ If you use this code or methodology, please cite:
 @misc{poisson_overdispersion_2024,
   title={Poisson Regression with Random Effects for Over-dispersion: 
          An Application to COVID-19 Cases in Lima Districts},
-  author={[Your Name]},
-  year={2024},
+  author={Niels Pacheco-Barrios},
+  year={2025},
   note={Computational Statistics Final Project}
 }
 ```
