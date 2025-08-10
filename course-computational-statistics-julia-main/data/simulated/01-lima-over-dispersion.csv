@@ -1,0 +1,44 @@
+districts,population,predictor,cases
+ San Juan de Lurigancho,1091303,-0.175,136119
+ San Martín de Porres,700178,1.159,120072
+ Ate,630085,-1.042,69214
+ Comas,524894,-0.156,62119
+ Villa El Salvador,463014,1.72,71370
+ Villa María del Triunfo,448545,-1.386,49273
+ San Juan de Miraflores,404001,0.536,64302
+ Los Olivos,371229,-0.786,51088
+ Puente Piedra,353327,0.133,55446
+ Santiago de Surco,344242,0.737,48301
+ Chorrillos,325547,0.604,50401
+ Carabayllo,301978,-1.244,30812
+ Cercado de Lima,271814,-0.564,39991
+ Santa Anita,228422,0.65,31853
+ Lurigancho-Chosica,218976,0.164,32056
+ Independencia,216822,1.461,27768
+ El Agustino,191365,0.527,25918
+ La Victoria,171779,1.002,28167
+ La Molina,171646,0.161,25478
+ Rímac,164911,-0.498,26667
+ San Miguel,135506,0.827,17432
+ Pachacámac,129653,-1.853,13797
+ San Borja,111928,-0.464,15492
+ Surquillo,91346,-0.716,10441
+ Lurín,85132,0.038,11144
+ Miraflores,81932,-1.166,10183
+ Pueblo Libre,76114,2.148,14477
+ Breña,75925,1.546,9912
+ Jesús María,71589,-0.635,8827
+ San Luis,57600,-0.515,7013
+ Magdalena del Mar,54656,0.487,7693
+ San Isidro,54206,0.267,8305
+ Lince,50228,-0.416,6427
+ Cieneguilla,47080,-0.4,5355
+ Chaclacayo,43428,-0.696,5113
+ Ancón,43382,0.329,7160
+ Barranco,29984,0.187,4020
+ Santa Rosa,18751,-1.475,2465
+ Pucusana,17044,0.89,2859
+ Punta Negra,7934,-2.222,1064
+ San Bartolo,7699,0.339,1189
+ Punta Hermosa,7609,-0.654,919
+ Santa María del Mar,1608,0.709,270

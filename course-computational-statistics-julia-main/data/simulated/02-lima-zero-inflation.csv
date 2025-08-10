@@ -1,0 +1,44 @@
+districts,population,w,x,cases
+ San Juan de Lurigancho,1091303,-1.307,-0.193,53332
+ San Martín de Porres,700178,0.697,1.291,39758
+ Ate,630085,-0.467,-1.589,26701
+ Comas,524894,1.018,-0.219,25613
+ Villa El Salvador,463014,1.897,-0.29,22105
+ Villa María del Triunfo,448545,-0.014,-1.22,19622
+ San Juan de Miraflores,404001,1.306,0.357,0
+ Los Olivos,371229,0.097,-0.932,17180
+ Puente Piedra,353327,-0.001,-1.299,15457
+ Santiago de Surco,344242,1.05,0.396,17795
+ Chorrillos,325547,1.306,-1.014,14512
+ Carabayllo,301978,-1.139,0.517,15789
+ Cercado de Lima,271814,0.281,-2.202,0
+ Santa Anita,228422,0.468,-1.336,10061
+ Lurigancho-Chosica,218976,-0.874,0.081,11039
+ Independencia,216822,1.398,-1.516,0
+ El Agustino,191365,-1.684,0.877,10446
+ La Victoria,171779,1.17,0.412,8912
+ La Molina,171646,-0.771,-1.179,7636
+ Rímac,164911,-1.044,0.57,8659
+ San Miguel,135506,-0.33,-0.755,6399
+ Pachacámac,129653,-1.339,0.227,0
+ San Borja,111928,0.257,0.276,5684
+ Surquillo,91346,-0.392,0.901,0
+ Lurín,85132,0.88,0.127,0
+ Miraflores,81932,-0.515,-2.078,0
+ Pueblo Libre,76114,-1.547,-1.624,0
+ Breña,75925,-1.647,-1.085,3420
+ Jesús María,71589,1.768,-0.467,3457
+ San Luis,57600,-0.427,0.485,2982
+ Magdalena del Mar,54656,1.286,1.889,3294
+ San Isidro,54206,2.191,0.478,2842
+ Lince,50228,-0.313,0.186,2582
+ Cieneguilla,47080,-1.947,1.434,0
+ Chaclacayo,43428,0.365,-0.228,2195
+ Ancón,43382,1.209,-0.28,0
+ Barranco,29984,0.392,-1.171,0
+ Santa Rosa,18751,0.762,1.179,1067
+ Pucusana,17044,-0.562,0.321,0
+ Punta Negra,7934,0.904,-0.18,381
+ San Bartolo,7699,-1.725,-0.999,321
+ Punta Hermosa,7609,-1.102,0.616,0
+ Santa María del Mar,1608,-0.103,1.265,80
