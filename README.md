@@ -216,11 +216,11 @@ This methodology applies to:
 
 **Course:** Computational Statistics  
 **Institution:** Universidad Nacional de Ingenieria  
-**Date:** August 2024
+**Date:** August 2025
 
 If you use this code or methodology, please cite:
 ```
-@misc{poisson_overdispersion_2024,
+@misc{poisson_overdispersion_2025,
   title={Poisson Regression with Random Effects for Over-dispersion: 
          An Application to COVID-19 Cases in Lima Districts},
   author={Niels Pacheco-Barrios},
